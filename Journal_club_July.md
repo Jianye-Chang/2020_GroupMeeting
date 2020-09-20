@@ -76,7 +76,7 @@ aversive olfactory learning
 
 ## 2020-11-26, 2pm
 * Speaker: Jianye Chang
-* Title:
+* Title:   Single-nucleus analysis of accessible chromatin in developing mouse forebrain reveals cell-type-specific transcriptional regulation
 
 ## 2020-12-3, 2pm
 * Speaker: Shuyang Xu
